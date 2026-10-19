@@ -2184,7 +2184,8 @@ if (autoRedactTriggerBtn) {
         btn.innerHTML = originalText;
         btn.disabled = false;
     }
-});
+    });
+}
 
 // ── Helper: apply redact mark on a single pending overlay ─────────────────────
 function applyRedactOverlay(div, card, r, scale) {
