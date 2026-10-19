@@ -1,0 +1,310 @@
+
+@font-face {
+    font-family: "ChulabhornLikitDisplay-Medium.otf";
+    src: url('./thai14font/ChulabhornLikitDisplay-Medium.otf');
+}
+
+@font-face {
+    font-family: "ChulabhornLikitText-Bold.otf";
+    src: url('./thai14font/ChulabhornLikitText-Bold.otf');
+}
+
+@font-face {
+    font-family: "ChulabhornLikitText-Light.otf";
+    src: url('./thai14font/ChulabhornLikitText-Light.otf');
+}
+
+@font-face {
+    font-family: "ChulabhornLikitText-Medium.otf";
+    src: url('./thai14font/ChulabhornLikitText-Medium.otf');
+}
+
+@font-face {
+    font-family: "ChulabhornLikitText-Regular.otf";
+    src: url('./thai14font/ChulabhornLikitText-Regular.otf');
+}
+
+@font-face {
+    font-family: "TH Baijam Bold Italic.ttf";
+    src: url('./thai14font/TH Baijam Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Baijam Bold.ttf";
+    src: url('./thai14font/TH Baijam Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Baijam Italic.ttf";
+    src: url('./thai14font/TH Baijam Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Baijam.ttf";
+    src: url('./thai14font/TH Baijam.ttf');
+}
+
+@font-face {
+    font-family: "TH Chakra Petch Bold Italic.ttf";
+    src: url('./thai14font/TH Chakra Petch Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Chakra Petch Bold.ttf";
+    src: url('./thai14font/TH Chakra Petch Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Chakra Petch Italic.ttf";
+    src: url('./thai14font/TH Chakra Petch Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Chakra Petch.ttf";
+    src: url('./thai14font/TH Chakra Petch.ttf');
+}
+
+@font-face {
+    font-family: "TH Charm of AU.ttf";
+    src: url('./thai14font/TH Charm of AU.ttf');
+}
+
+@font-face {
+    font-family: "TH Charmonman Bold.ttf";
+    src: url('./thai14font/TH Charmonman Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Charmonman.ttf";
+    src: url('./thai14font/TH Charmonman.ttf');
+}
+
+@font-face {
+    font-family: "TH Fahkwang Bold Italic.ttf";
+    src: url('./thai14font/TH Fahkwang Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Fahkwang Bold.ttf";
+    src: url('./thai14font/TH Fahkwang Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Fahkwang Italic.ttf";
+    src: url('./thai14font/TH Fahkwang Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Fahkwang.ttf";
+    src: url('./thai14font/TH Fahkwang.ttf');
+}
+
+@font-face {
+    font-family: "TH K2D July8 Bold Italic.ttf";
+    src: url('./thai14font/TH K2D July8 Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH K2D July8 Bold.ttf";
+    src: url('./thai14font/TH K2D July8 Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH K2D July8 Italic.ttf";
+    src: url('./thai14font/TH K2D July8 Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH K2D July8.ttf";
+    src: url('./thai14font/TH K2D July8.ttf');
+}
+
+@font-face {
+    font-family: "TH Kodchasal Bold Italic.ttf";
+    src: url('./thai14font/TH Kodchasal Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Kodchasal Bold.ttf";
+    src: url('./thai14font/TH Kodchasal Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Kodchasal Italic.ttf";
+    src: url('./thai14font/TH Kodchasal Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Kodchasal.ttf";
+    src: url('./thai14font/TH Kodchasal.ttf');
+}
+
+@font-face {
+    font-family: "TH KoHo Bold Italic.ttf";
+    src: url('./thai14font/TH KoHo Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH KoHo Bold.ttf";
+    src: url('./thai14font/TH KoHo Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH KoHo Italic.ttf";
+    src: url('./thai14font/TH KoHo Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH KoHo.ttf";
+    src: url('./thai14font/TH KoHo.ttf');
+}
+
+@font-face {
+    font-family: "TH Krub Bold Italic.ttf";
+    src: url('./thai14font/TH Krub Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Krub Bold.ttf";
+    src: url('./thai14font/TH Krub Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Krub Italic.ttf";
+    src: url('./thai14font/TH Krub Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Krub.ttf";
+    src: url('./thai14font/TH Krub.ttf');
+}
+
+@font-face {
+    font-family: "TH Mali Grade6 Bold Italic.ttf";
+    src: url('./thai14font/TH Mali Grade6 Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Mali Grade6 Bold.ttf";
+    src: url('./thai14font/TH Mali Grade6 Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Mali Grade6 Italic.ttf";
+    src: url('./thai14font/TH Mali Grade6 Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Mali Grade6.ttf";
+    src: url('./thai14font/TH Mali Grade6.ttf');
+}
+
+@font-face {
+    font-family: "TH Niramit AS Bold Italic.ttf";
+    src: url('./thai14font/TH Niramit AS Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Niramit AS Bold.ttf";
+    src: url('./thai14font/TH Niramit AS Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Niramit AS Italic.ttf";
+    src: url('./thai14font/TH Niramit AS Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Niramit AS-IT๙ Bold Italic.ttf";
+    src: url('./thai14font/TH Niramit AS-IT๙ Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH Niramit AS.ttf";
+    src: url('./thai14font/TH Niramit AS.ttf');
+}
+
+@font-face {
+    font-family: "TH NiramitIT๙ Bold.ttf";
+    src: url('./thai14font/TH NiramitIT๙ Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH NiramitIT๙ Italic.ttf";
+    src: url('./thai14font/TH NiramitIT๙ Italic.ttf');
+}
+
+@font-face {
+    font-family: "TH NiramitIT๙.ttf";
+    src: url('./thai14font/TH NiramitIT๙.ttf');
+}
+
+@font-face {
+    font-family: "TH Srisakdi Bold.ttf";
+    src: url('./thai14font/TH Srisakdi Bold.ttf');
+}
+
+@font-face {
+    font-family: "TH Srisakdi.ttf";
+    src: url('./thai14font/TH Srisakdi.ttf');
+}
+
+@font-face {
+    font-family: "THSarabun Bold.ttf";
+    src: url('./thai14font/THSarabun Bold.ttf');
+}
+
+@font-face {
+    font-family: "THSarabun BoldItalic.ttf";
+    src: url('./thai14font/THSarabun BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: "THSarabun Italic.ttf";
+    src: url('./thai14font/THSarabun Italic.ttf');
+}
+
+@font-face {
+    font-family: "THSarabun.ttf";
+    src: url('./thai14font/THSarabun.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunIT๙ Bold.ttf";
+    src: url('./thai14font/THSarabunIT๙ Bold.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunIT๙ BoldItalic.ttf";
+    src: url('./thai14font/THSarabunIT๙ BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunIT๙ Italic.ttf";
+    src: url('./thai14font/THSarabunIT๙ Italic.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunIT๙.ttf";
+    src: url('./thai14font/THSarabunIT๙.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunNew Bold.ttf";
+    src: url('./thai14font/THSarabunNew Bold.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunNew BoldItalic.ttf";
+    src: url('./thai14font/THSarabunNew BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunNew Italic.ttf";
+    src: url('./thai14font/THSarabunNew Italic.ttf');
+}
+
+@font-face {
+    font-family: "THSarabunNew.ttf";
+    src: url('./thai14font/THSarabunNew.ttf');
+}

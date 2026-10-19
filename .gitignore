@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Temporary / Scratch patch scripts
+*.py
+!main.py
+
+# Assets / Caches
+*.pdf
+temp_fonts/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
